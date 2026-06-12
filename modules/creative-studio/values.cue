@@ -8,9 +8,9 @@ values: {
 	}
 	app: "creative-studio"
 	image: {
-		repository: "yashparmar2055/creative-studio:latest"
+		repository: "yashparmar2055/creative-studio"
 		digest:     ""
-		tag:        ""
+		tag:        "latest"
 	}
 	replicas: 3
 	service: {
